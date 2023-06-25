@@ -1,0 +1,20 @@
+{
+  "name": "guessing-game-project",
+  "version": "1.0.0",
+  "description": "practicing readline and async js",
+  "main": "guessing-game.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-gehlot/Guessing-game-practice.git"
+  },
+  "author": "Andrew Gehlot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-gehlot/Guessing-game-practice/issues"
+  },
+  "homepage": "https://github.com/a-gehlot/Guessing-game-practice#readme"
+}
